@@ -24,4 +24,4 @@ Note, $p$ (momentum) is the parameter space for the Hamiltonian. Now, choose any
 ```
 ## Results  
 A circular loop of radius $r=0.05$ unit is chosen in the parameter space. The Berry phase is come out to be nearly $\pi$, with a deviation of the order of $\sim 10^{-14}$.  
-<img align="left" width="375" src="https://github.com/abirm766/berry-phase-in-graphene/blob/main/bands.png"><img align="right" width="400" src="https://github.com/abirm766/berry-phase-in-graphene/blob/main/loop.png">
+<img align="left" width="425" src="https://github.com/abirm766/berry-phase-in-graphene/blob/main/bands.png"><img align="right" width="425" src="https://github.com/abirm766/berry-phase-in-graphene/blob/main/loop1.png">
